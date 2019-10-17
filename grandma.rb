@@ -14,7 +14,13 @@
 
 def "where are you grandma?"
   
-  if 
+  if "grandma can not hear me"
+    
+    puts "Huh?! SPEAK UP, SONNY!"
+    
+  else 
+    puts "yes i can"
+    
 
 
 
