@@ -20,7 +20,7 @@ def "where are you grandma?"
     
   else 
     puts "yes i can"
-    
+     binding.rb 
 
 
 
