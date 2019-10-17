@@ -16,7 +16,7 @@ def speak_to_grandma method
   "where are you grandma?"
   
   if "grandma can not hear me"
-    
+end
     puts "Huh?! SPEAK UP, SONNY!"
     
   else 
