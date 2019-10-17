@@ -20,9 +20,6 @@ def speak_to_grandma method
     puts "Huh?! SPEAK UP, SONNY!"
     
   else 
-    puts "yes i can"
-     binding.rb 
-
-
-
-end
+    puts "NO, NOT SINCE 1938
+     
+   end
